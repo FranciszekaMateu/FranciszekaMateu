@@ -1,6 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=FranciszekaMateu&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="FranciszekaMateu" /> </p>
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=30&pause=1000&color=F75822&random=false&width=435&lines=Hello+There!+I'mFran" alt="Typing SVG" /></h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Anta&size=30&pause=1000&color=F75822&center=true&vCenter=true&random=false&width=435&lines=Hello+There!+I'mFran" alt="Typing SVG" />
+</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranciszekaMateu&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranciszekaMateu&theme=calm)
