@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Anta&pause=1000&random=false&width=435&lines=Hello+There!+I'm+Fran" alt="Typing SVG" />
+</h3>
 
 <!--
 **FranciszekaMateu/FranciszekaMateu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
