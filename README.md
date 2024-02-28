@@ -3,6 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Anta&pause=1000&color=80F738&random=false&width=435&lines=Hello+There!+I'm+Fran" alt="Typing SVG" />
 </h3>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranciszekaMateu&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranciszekaMateu&theme=chartreuse_dark)
+
 <!--
 **FranciszekaMateu/FranciszekaMateu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
