@@ -5,6 +5,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranciszekaMateu&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranciszekaMateu&theme=calm)
+
+- 🔭 I have a strong interest in computers, engineering, and software development.
+- 🌱 I’m currently learning Rust 
+
 <!--
 **FranciszekaMateu/FranciszekaMateu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
